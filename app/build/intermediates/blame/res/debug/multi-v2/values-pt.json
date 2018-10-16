@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/home/lifesucks/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/32bff7a560edddf4f9ab8b602a3edc5d/res/values-pt/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "276,396,504,627,733,840,929,1030,1148,1255,1367,1469,1577,1684,1794,1919",
+                        "endColumns": "119,107,122,105,106,88,100,117,106,111,101,107,106,109,124,99",
+                        "endOffsets": "391,499,622,728,835,924,1025,1143,1250,1362,1464,1572,1679,1789,1914,2014"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,512,619,708,809,927,1034,1146,1248,1356,1463,1573,1698",
+                        "endColumns": "119,107,122,105,106,88,100,117,106,111,101,107,106,109,124,99",
+                        "endOffsets": "170,278,401,507,614,703,804,922,1029,1141,1243,1351,1458,1568,1693,1793"
+                    }
+                }
+            ]
+        }
+    ]
+}

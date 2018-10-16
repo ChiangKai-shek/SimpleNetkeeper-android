@@ -1,0 +1,4 @@
+#Tue Oct 16 10:28:00 CST 2018
+base.0=/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

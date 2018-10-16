@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "10,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "464,17",
+                        "endLines": "12,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "623,458"
+                    },
+                    "to": {
+                        "startLines": "185,188",
+                        "startColumns": "4,4",
+                        "startOffsets": "12497,12661",
+                        "endLines": "187,194",
+                        "endColumns": "12,12",
+                        "endOffsets": "12656,13102"
+                    }
+                },
+                {
+                    "source": "/home/lifesucks/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/32bff7a560edddf4f9ab8b602a3edc5d/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4,10,16,22,28,34,42,48,54,60,66,67,68,69,182,184,186,193,243,293,344",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "286,705,1130,1558,1984,2413,3064,3485,3920,4353,4800,4878,4970,5060,12580,12687,12816,13406,17144,20896,24773",
+                        "endLines": "9,15,21,27,33,39,47,53,59,65,66,67,68,179,183,185,190,242,292,343,394",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,77,91,89,12,12,12,12,12,12,12,12",
+                        "endOffsets": "700,1125,1553,1979,2408,2833,3480,3915,4348,4795,4873,4965,5055,12349,12682,12811,13175,17139,20891,24768,28659"
+                    },
+                    "to": {
+                        "startLines": "2,8,14,20,26,32,38,44,50,56,62,63,64,65,176,178,180,195,245,295,346",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2182,2607,3028,3463,3896,4343,4421,4513,4603,11897,12004,12133,13107,16845,20597,24474",
+                        "endLines": "7,13,19,25,31,37,43,49,55,61,62,63,64,175,177,179,184,244,294,345,396",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,77,91,89,12,12,12,12,12,12,12,12",
+                        "endOffsets": "469,894,1322,1748,2177,2602,3023,3458,3891,4338,4416,4508,4598,11892,11999,12128,12492,16840,20592,24469,28360"
+                    }
+                }
+            ]
+        }
+    ]
+}
