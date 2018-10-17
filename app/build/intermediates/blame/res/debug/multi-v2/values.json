@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/src/main/res/values/strings_activity_options.xml",
-                    "from": {
-                        "startLines": "17,22,32,40,14,9,29,6,52,57,16,13,54,56,8,31,49,59,1",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "670,831,1155,1405,517,302,1019,153,1755,1973,583,452,1824,1916,210,1086,1625,2030,16",
-                        "endLines": "21,26,39,47,14,11,29,6,52,57,16,13,54,56,8,31,49,59,1",
-                        "endColumns": "19,19,19,19,64,13,65,55,67,55,86,64,90,56,91,68,80,54,55",
-                        "endOffsets": "826,967,1400,1619,577,446,1080,204,1818,2024,665,512,1910,1968,297,1150,1701,2080,67"
-                    },
-                    "to": {
-                        "startLines": "2,7,12,20,252,253,256,257,258,259,260,261,262,263,264,265,266,267,273",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,216,357,607,28580,28645,28794,28860,28916,28984,29040,29127,29192,29283,29340,29432,29501,29582,30001",
-                        "endLines": "6,11,19,27,252,255,256,257,258,259,260,261,262,263,264,265,266,267,273",
-                        "endColumns": "19,19,19,19,64,13,65,55,67,55,86,64,90,56,91,68,80,54,55",
-                        "endOffsets": "211,352,602,821,28640,28789,28855,28911,28979,29035,29122,29187,29278,29335,29427,29496,29577,29632,30052"
-                    }
-                },
                 {
                     "source": "/home/lifesucks/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/32bff7a560edddf4f9ab8b602a3edc5d/res/values/values.xml",
                     "from": {
@@ -42,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/src/main/res/values/strings.xml",
+                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper-android/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "46,53,52,50,47,40,41,49,48,45,42,43,44,39,54,51,1,35,37,36,34,5,3,4,9,11,10,6,7,2,58,57,63,61,62,60,56,59,18,19,32,16,23,24,21,25,22,31,26,27,29,28,30,14,15,20,17,13,70,69,68,67,8,65",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -59,26 +40,24 @@
                     }
                 },
                 {
-                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/src/main/res/values/styles.xml",
+                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper-android/app/src/main/res/values/dimens.xml",
                     "from": {
-                        "startLines": "3,15,24,7,34,26",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "54,603,1011,185,1419,1049",
-                        "endLines": "5,21,24,12,40,32",
-                        "endColumns": "12,12,36,12,12,12",
-                        "endOffsets": "179,926,1043,524,1780,1413"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
                     },
                     "to": {
-                        "startLines": "276,1132,1139,1140,1324,1331",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "30199,84487,84815,84851,97715,98081",
-                        "endLines": "278,1138,1139,1145,1330,1337",
-                        "endColumns": "12,12,35,12,12,12",
-                        "endOffsets": "30324,84810,84846,85190,98076,98445"
+                        "startLines": "158,159",
+                        "startColumns": "4,4",
+                        "startOffsets": "21395,21453",
+                        "endColumns": "57,55",
+                        "endOffsets": "21448,21504"
                     }
                 },
                 {
-                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/src/main/res/values/colors.xml",
+                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper-android/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -95,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/src/main/res/values/attrs.xml",
+                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper-android/app/src/main/res/values/attrs.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
@@ -114,20 +93,41 @@
                     }
                 },
                 {
-                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/src/main/res/values/dimens.xml",
+                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper-android/app/src/main/res/values/strings_activity_options.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "88,146",
-                        "endColumns": "57,55",
-                        "endOffsets": "141,197"
+                        "startLines": "17,22,32,40,14,9,29,6,52,57,16,13,54,56,8,31,49,59,1",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "670,831,1155,1405,517,302,1019,153,1755,1973,583,452,1824,1916,210,1086,1625,2030,16",
+                        "endLines": "21,26,39,47,14,11,29,6,52,57,16,13,54,56,8,31,49,59,1",
+                        "endColumns": "19,19,19,19,64,13,65,55,67,55,86,64,90,56,91,68,80,54,55",
+                        "endOffsets": "826,967,1400,1619,577,446,1080,204,1818,2024,665,512,1910,1968,297,1150,1701,2080,67"
                     },
                     "to": {
-                        "startLines": "158,159",
-                        "startColumns": "4,4",
-                        "startOffsets": "21395,21453",
-                        "endColumns": "57,55",
-                        "endOffsets": "21448,21504"
+                        "startLines": "2,7,12,20,252,253,256,257,258,259,260,261,262,263,264,265,266,267,273",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,216,357,607,28580,28645,28794,28860,28916,28984,29040,29127,29192,29283,29340,29432,29501,29582,30001",
+                        "endLines": "6,11,19,27,252,255,256,257,258,259,260,261,262,263,264,265,266,267,273",
+                        "endColumns": "19,19,19,19,64,13,65,55,67,55,86,64,90,56,91,68,80,54,55",
+                        "endOffsets": "211,352,602,821,28640,28789,28855,28911,28979,29035,29122,29187,29278,29335,29427,29496,29577,29632,30052"
+                    }
+                },
+                {
+                    "source": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper-android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,15,24,7,34,26",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "54,603,1011,185,1419,1049",
+                        "endLines": "5,21,24,12,40,32",
+                        "endColumns": "12,12,36,12,12,12",
+                        "endOffsets": "179,926,1043,524,1780,1413"
+                    },
+                    "to": {
+                        "startLines": "276,1132,1139,1140,1324,1331",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "30199,84487,84815,84851,97715,98081",
+                        "endLines": "278,1138,1139,1145,1330,1337",
+                        "endColumns": "12,12,35,12,12,12",
+                        "endOffsets": "30324,84810,84846,85190,98076,98445"
                     }
                 }
             ]

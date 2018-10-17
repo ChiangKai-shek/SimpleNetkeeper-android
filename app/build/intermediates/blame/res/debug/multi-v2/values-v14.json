@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper/Android Version/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/home/lifesucks/Documents/AndroidStudio/SimpleNetkeeper-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
                     "source": "/home/lifesucks/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/32bff7a560edddf4f9ab8b602a3edc5d/res/values-v14/values.xml",
